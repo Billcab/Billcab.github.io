@@ -1,2 +1,5 @@
 # Billcab.github.io
 Static webpage
+<p>Welcome to Billcab github web page. Hopefully I can create the site I would like to using what I learn along the way.</p>
+<p> Some of my favorite topics which I hope to start creating content daily once I get my directions and bearings. I enjoy writing about topics that intrest me and also sharing what knowledge I do have with others. I enjoy learning about machine learning, artificial intelligence, neural networtks both artificial and biological. Robotics intrests me as well since I once upon a time was a robotics programmer. I worked with a motoman weldingb robot where I was plant manager for several years. Part of my job requirements was to fabricate fixtures for the parts that wouild get welded. I also trained new operators on using the robot as well as trouble shooting simple problems. I spent 3 1/2 years going to college for B.S. in I.T. at South University. My last attempt at getting some content on this page was lost due to not saving the changes that I made. I want to add some buttons and some href links to help viewers navigate around site.</p>
+<br> <h1> TOPICS OF INTREST</h1></br>
